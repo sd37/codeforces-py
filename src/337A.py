@@ -1,3 +1,6 @@
+# http://codeforces.com/problemset/problem/337/A
+# Status = AC
+
 n, m = map(int, input().split())
 f = list(map(int, input().split()))
 
